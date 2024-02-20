@@ -82,6 +82,7 @@ const Job = () => {
                     </div>
                 </div>
                 )
+                
             }
             )
         }
